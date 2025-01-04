@@ -1,0 +1,10 @@
+<!DOCTYPE. html>
+<html>
+<head><tittle>page2</tittle>
+</head>
+<body>
+<h1>learning code needs commintment and determination</h1> <br>
+<a href="page1.html">
+go back to page1</a>
+<a href="https://www.Google.com"> go to google </a> </body>
+</html>
